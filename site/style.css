@@ -1,9 +1,21 @@
-:root { color-scheme: light dark; }
-body {
-  font-family: system-ui, sans-serif;
-  max-width: 40rem;
-  margin: 4rem auto;
-  padding: 0 1rem;
-  line-height: 1.6;
+:root {
+    color-scheme: light;
 }
-a { color: #3070b3; }   /* TUM blue */
+body {
+    font-family: system-ui, sans-serif;
+    max-width: 40rem;
+    margin: 4rem auto;
+    padding: 0 1rem;
+    line-height: 1.6;
+}
+h1 {
+    color: #3070b3;
+}
+a {
+    color: #3070b3;
+} /* TUM blue */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
